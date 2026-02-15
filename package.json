@@ -1,0 +1,16 @@
+{
+  "name": "sovit-qr-api",
+  "version": "2.0.0",
+  "description": "Advanced Sovit QR Generator API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3",
+    "uuid": "^9.0.0"
+  }
+}
